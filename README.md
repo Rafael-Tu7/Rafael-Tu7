@@ -1,56 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:06b6d4&text=RAFAEL%20TUSSET&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:06b6d4&text=Rafael%20Tusset&fontColor=ffffff&fontSize=48"/>
 
-# 👋 Olá, eu sou Rafael Tusset
+# Rafael Tusset
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Estudante+de+Desenvolvimento+de+Software;Back-end+Developer+em+Forma%C3%A7%C3%A3o;Sempre+Aprendendo+Algo+Novo"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Estudante+de+Desenvolvimento+de+Software;Back-end+Developer+em+Forma%C3%A7%C3%A3o"/>
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+## Sobre mim
 
-Sou estudante de Desenvolvimento de Software apaixonado por tecnologia e programação.
+Sou estudante de Desenvolvimento de Software, com foco em desenvolvimento back-end utilizando Python.
 
-Atualmente estudo Python, Git e desenvolvimento Back-end, buscando minha primeira oportunidade profissional na área.
-
-Gosto de criar projetos para aprender na prática e evoluir constantemente.
+Atualmente desenvolvo projetos para praticar lógica de programação, organização de código e boas práticas de desenvolvimento. Busco minha primeira oportunidade na área de tecnologia, onde eu possa aprender, contribuir e evoluir profissionalmente.
 
 ---
 
-# 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux"/>
-
 </p>
 
 ---
 
-# 🛠 Ferramentas
+## Ferramentas
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=windows,pycharm"/>
-
 </p>
 
 ---
 
-# 📂 Projetos
+## Projetos
 
 | Projeto | Descrição |
 |----------|-----------|
-| 🔐 SecureVault | Gerenciador de senhas desenvolvido em Python. |
-| ✅ Lista de Tarefas | Aplicação para organização de tarefas. |
-| ⌨️ AutoTyper | Ferramenta para automação de digitação. |
+| SecureVault | Gerenciador de senhas desenvolvido em Python. |
+| Lista de Tarefas | Aplicação para gerenciamento de tarefas. |
+| AutoTyper | Ferramenta para automação de digitação. |
 
 ---
 
-# 📈 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -62,7 +56,7 @@ Gosto de criar projetos para aprender na prática e evoluir constantemente.
 
 ---
 
-# 🔥 Streak
+## Sequência de contribuições
 
 <div align="center">
 
@@ -72,7 +66,7 @@ Gosto de criar projetos para aprender na prática e evoluir constantemente.
 
 ---
 
-# 📊 Activity Graph
+## Atividade
 
 <div align="center">
 
@@ -82,58 +76,23 @@ Gosto de criar projetos para aprender na prática e evoluir constantemente.
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rafael-Tu7&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🎯 Atualmente
+## Objetivos atuais
 
 ```text
-> Estudando Python
-> Aprendendo boas práticas de desenvolvimento
-> Evoluindo em Git e GitHub
-> Construindo projetos para portfólio
-> Buscando minha primeira oportunidade como Desenvolvedor Back-end
+• Aprimorar meus conhecimentos em Python
+• Estudar desenvolvimento back-end
+• Construir projetos para meu portfólio
+• Conquistar minha primeira oportunidade como desenvolvedor
 ```
 
 ---
 
-# 🌐 Contato
+## Contato
 
 <p align="center">
 
-<a href="https://github.com/Rafael-Tu7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/rafael-tusset-031135422/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-## 🐍 Snake Contribution
-
-![Snake animation](https://github.com/Rafael-Tu7/Rafael-Tu7/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### "Transformando café ☕ em código Python 🐍"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,100:06b6d4"/>
-
-</div>
