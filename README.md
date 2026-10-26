@@ -21,7 +21,7 @@ Atualmente desenvolvo projetos para praticar lógica de programação, organiza�
 ## Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Atualmente desenvolvo projetos para praticar lógica de programação, organiza�
 ## Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,pycharm"/>
+<img src="https://skillicons.dev/icons?i=windows"/>
 </p>
 
 ---
